@@ -15,5 +15,3 @@ app.use(cloudinaryRoutes);
 app.listen(process.env.PORT, (req, res) => {
   console.log("server started");
 });
-
-//METTRE CE PROJET SUR GITHUB + L'AUTRE PROJET (CHECKING-MISSIONS) ET EFFACER CE COMMENTAIRE
